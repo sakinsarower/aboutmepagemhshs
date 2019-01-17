@@ -1,0 +1,18 @@
+*{
+  margin: 1;
+  /* padding: 1; */
+
+}
+
+body {
+  background: #000;
+
+}
+
+p, h2 {
+  color: #FFF;
+}
+
+img{
+  width: 100%;
+}
